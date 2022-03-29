@@ -3,7 +3,7 @@
     <header>
       <Publicity v-show="!running" />
       <el-button class="res" type="text" @click="showResult = true">
-        抽奖结果
+        抽獎結果
       </el-button>
       <el-button class="con" type="text" @click="showConfig = true">
         抽奖配置
